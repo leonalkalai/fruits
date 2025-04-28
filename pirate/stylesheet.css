@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Pirates';
+    src: url('Pirates.woff2') format('woff2'),
+        url('Pirates.woff') format('woff'),
+        url('Pirates.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pirates';
+    src: url('Pirates_1.woff2') format('woff2'),
+        url('Pirates_1.woff') format('woff'),
+        url('Pirates_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
